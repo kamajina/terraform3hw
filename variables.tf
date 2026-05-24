@@ -2,7 +2,7 @@
 variable "token" {
   type        = string
   description = "OAuth-token; https://cloud.yandex.ru/docs/iam/concepts/authorization/oauth-token"
-  default = "y0__wgBEPmUi8IGGMHdEyCq4OTRF2rcuTAIhJv5E1jqiiJPKhrsjBIr"
+  default = ""
 }
 
 variable "cloud_id" {
